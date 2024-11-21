@@ -176,4 +176,4 @@ Distributed under the MIT License.
 
 ## Support
 
-[Open a GitHub issue](https://github.com/yoohanko98/jellyfin-backdrop-modifier/issues) for any problems.
+[Open a GitHub issue](https://github.com/yoohanko98/jellyfinbackdrops/issues) for any problems.

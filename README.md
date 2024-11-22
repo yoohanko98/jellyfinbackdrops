@@ -2,7 +2,7 @@
 
 ## Overview
 
-A simple bash script to modify Jellyfin's backdrop settings, ensuring the change persists through updates when running in a Unraid Docker container.
+A simple bash script to modify Jellyfin's backdrop settings to enable backdrops for ALL USERS automatically, ensuring the change persists through updates when running in a Unraid Docker container.
 
 Two scripts to modify Jellyfin's backdrop settings:
 - One for direct Unraid console execution
